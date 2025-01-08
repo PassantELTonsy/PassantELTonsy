@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀Know more about Passant check Portfolio:<br>https://portfolio-qydnhjaushzlfvcqb7c2fj.streamlit.app/</p>
+<p align="left">🚀Know more about Passant check Portfolio:<a href=https://portfolio-qydnhjaushzlfvcqb7c2fj.streamlit.app/>Portfolio</a>
 
 ###
 
