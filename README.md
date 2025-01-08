@@ -57,6 +57,6 @@
 
 <br clear="both">
 
-<p align="left">📫 Let's Connect!<br>- LinkedIn: [PassantEltonsy](https://www.linkedin.com/in/passant-el-tonsy-ali-a52b42230/)  <br>- Email: passanteltonsy@gmail.com</p>
+<p align="left">📫 Let's Connect!<br>- LinkedIn: <a href="https://www.linkedin.com/in/passant-el-tonsy-ali-a52b42230/">PassantEltonsy</a>
 
 ###
