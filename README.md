@@ -4,6 +4,12 @@
 </div>
 
 ###
+
+<div align="right">
+  <img height="200" src="Avatar"  />
+</div>
+
+###
 <h1 align="left">Hi there, I'm Passant!👋👋</h1>
 
 ###
