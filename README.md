@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi there, I'm Passant!👋👋</h1>
 
 ###
 
-<p align="left">Know more about Passant check Portfolio:<br>https://portfolio-qydnhjaushzlfvcqb7c2fj.streamlit.app/</p>
+<p align="left">🚀Know more about Passant check Portfolio:<br>https://portfolio-qydnhjaushzlfvcqb7c2fj.streamlit.app/</p>
 
 ###
 
