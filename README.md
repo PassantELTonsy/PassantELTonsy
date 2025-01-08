@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="200" width="100%" src="AvatarMaker.png"  />
+  <img height="200" width="100%" src="Avatar"  />
 </div>
 
 ###
