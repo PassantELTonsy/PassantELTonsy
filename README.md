@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img height="200" src="AvatarMaker.png"  />
+</div>
+
+###
 <h1 align="left">Hi there, I'm Passant!👋👋</h1>
 
 ###
