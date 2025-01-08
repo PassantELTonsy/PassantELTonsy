@@ -13,6 +13,11 @@
 
 ###
 
+<div align="center">
+  <img height="200"  src="AvatarMaker.png"  />
+</div>
+
+###
 <h2 align="left">About me</h2>
 
 ###
