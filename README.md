@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">✨  Testing and Automation Trainee @ Algoriza | Dell Envision the Future Finalist'2025 | Data Annotation Specialist|Passionate about Machine Learning & Computer VisionFormer | EOI'2018<br>📚 Aspiring Computer Engineer SFE'2025<br>🎲 Fun fact: <br>- I'm a GYM RAT!<br>- I'm like a sponge in a sea of languages—I soak up every word I can!</p>
+<p align="left">✨  Testing and Automation Trainee @ Algoriza | Dell Envision the Future Finalist'2025 | ML& Computer Vision Enthusiast | Former EOI’2018 <br>📚 Computer Engineering SFE’2025<br>🎲 Fun fact: <br>- I'm a GYM RAT!<br>- I'm like a sponge in a sea of languages—I soak up every word I can!</p>
 
 ###
 
